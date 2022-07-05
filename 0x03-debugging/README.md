@@ -1,1 +1,1 @@
-C programming debugging
+C programming debugging tasks
